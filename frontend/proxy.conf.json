@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "https://bluestockbackend.onrender.com",
+      "secure": false
+    }
+  }
+  
